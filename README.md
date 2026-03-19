@@ -1,4 +1,4 @@
-# Code Review Skill for Claude Code
+# Code-Review-MasterSkill for Claude Code
 
 A comprehensive, multi-lens code review skill for [Claude Code](https://claude.ai/code) that covers security, performance, architecture, style, and test quality — with confidence scoring to eliminate noise.
 
@@ -38,12 +38,12 @@ Every issue is scored 0–100. Only issues scoring **≥ 80** are surfaced. This
 ## Installation
 
 ### Via SkillsMP (recommended)
-Search for `youness-aboukad/code-review` on [SkillsMP](https://skillsmp.com).
+Search for `Ksawyoux/Code-Review-MasterSkill` on [SkillsMP](https://skillsmp.com).
 
 ### Manual
 ```bash
 # Clone into your project's .claude/skills directory
-git clone https://github.com/youness-aboukad/code-review-skill \
+git clone https://github.com/Ksawyoux/Code-Review-MasterSkill \
   .claude/skills/code-review
 ```
 
@@ -77,4 +77,7 @@ git clone https://github.com/youness-aboukad/code-review-skill \
 
 ## Author
 
-[Youness Aboukad](https://github.com/youness-aboukad)
+[Ksawyoux](https://github.com/Ksawyoux)
+)
+ss-aboukad)
+)
