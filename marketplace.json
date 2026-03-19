@@ -1,0 +1,15 @@
+{
+  "name": "code-review",
+  "displayName": "Code Review",
+  "description": "Thorough, prioritized code reviews across TypeScript/Next.js, Java/Spring Boot, Python, JavaScript, and SQL/PostgreSQL. Covers OWASP security, SOLID architecture, Google Style, test quality, git context, and CLAUDE.md compliance. Confidence scoring surfaces only real issues (≥ 80/100).",
+  "author": "youness-aboukad",
+  "version": "1.0.0",
+  "repository": "https://github.com/youness-aboukad/code-review-skill",
+  "skillPath": ".claude/skills/code-review",
+  "tags": ["code-review", "security", "owasp", "solid", "typescript", "java", "python", "sql", "nextjs", "spring-boot"],
+  "stack": ["TypeScript", "Next.js", "Java", "Spring Boot", "JavaScript", "Python", "SQL", "PostgreSQL"],
+  "requires": {
+    "claudeCode": ">=1.0.0",
+    "optional": ["gh"]
+  }
+}
